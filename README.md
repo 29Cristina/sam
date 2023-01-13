@@ -1,8 +1,8 @@
 A fost implementat:
 
-Frame Layout
-Permisiuni camera
-Buton navigare
+Frame Layout,
+Permisiuni camera,
+Buton navigare,
 
-Unit Test
+Unit Test,
 Instrumented Test
